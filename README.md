@@ -1,5 +1,7 @@
 # TicTacToe
 
 It's a Two player game Implimented in Java. 
-![Uploading Screenshot 2025-11-04 224315.png…]()
+
+
+https://github.com/priyag242/tictac/blob/91e8d8a31563453848dadb0ad7a939219700d07d/Screenshot%202025-11-04%20224315.png
 
