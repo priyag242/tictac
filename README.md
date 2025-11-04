@@ -1,6 +1,9 @@
 # TicTacToe
 
-It's a Two player game Implimented in Java. 
+It's a Two player game Implimented in Java.
+
+https://github.com/priyag242/tictac/blob/61349ccedad20fbecb17c65a2a6ddd6189a5895a/Screenshot%202025-11-04%20225515.png
+
 
 ## How to run
 1. Make sure you have Java installed.
